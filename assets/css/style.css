@@ -237,7 +237,6 @@ footer .icons {
     }
     nav div {
         width: 90vw;
-        padding: 0 16px;
         display: flex;
         justify-content: flex-end;
     }
@@ -246,6 +245,7 @@ footer .icons {
         padding: 0;
         border-right: 30px solid #fff;
         border-top: 30px solid transparent;
+        border-bottom: 10px solid #fff;
     }
     .menu img, li {
         padding: 35px 16px;
@@ -256,7 +256,7 @@ footer .icons {
         position: absolute;
         background-color: #fff;
         width: 90vw;
-        margin: 29px 16px;
+        margin: 30px 16px;
     }
     li a {
         color: #999;
