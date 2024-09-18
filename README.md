@@ -27,7 +27,7 @@ Users should be able to:
 ### Screenshot
 ![desktop-design](./assets/images/desktop-design.png)
 ![mobile-design](./assets/images/mobile-design.png)
-![mobile-menu-design](./assets/images/mobile-menu-design.png)
+![mobile-menu-design](./assets/images/mobile-menu-design.jpg)
 
 ### Links
 
