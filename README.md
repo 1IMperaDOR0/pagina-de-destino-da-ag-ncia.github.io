@@ -144,8 +144,7 @@ This code combines DOM manipulation, interaction events, and screen size detecti
 
 ### Useful Resources
 
-- [Mouseover and mouseout concepts](https://javascript.info/mousemove-mouseover-mouseout-mouseenter-mouseleave) Isso me ajudou a resolver os problemas de fazer o o underline dos learn more. Gostei muito desse padrão e vou usá-lo de agora em diante.
-
+- [Mouseover and mouseout concepts](https://javascript.info/mousemove-mouseover-mouseout-mouseenter-mouseleave) This helped me solve the problems of underlining the learn more. I really liked this pattern and will use it from now on.
 
 ## Author
 
