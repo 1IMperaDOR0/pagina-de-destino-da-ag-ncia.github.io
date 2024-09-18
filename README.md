@@ -25,9 +25,9 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
-![desktop-design](./images/desktop-design.png)
-![mobile-design](./images/mobile-design.png)
-![mobile-menu-design](./images/mobile-menu-design.png)
+![desktop-design](./assets/images/desktop-design.png)
+![mobile-design](./assets/images/mobile-design.png)
+![mobile-menu-design](./assets/images/mobile-menu-design.png)
 
 ### Links
 
